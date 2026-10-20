@@ -37,6 +37,20 @@ An e-commerce company wants to understand why its promotional campaigns fail to 
 **Observation:** Adult and Senior make up 77% of revenue. However, young women (Young Female) have the highest average basket in the dataset (**$61.82**), despite a low purchase volume.
 **Impact:** Doubling their purchase volume would generate **+$17,000 in revenue**.
 **Recommendation:** Launch a targeted premium acquisition campaign for young women.
+### 📊 Visualizations
+
+* **Insight 1 - Promotions Impact:**
+![Promo vs No Promo](insight_1_promo_english.png)
+
+* **Insight 2 - Revenue by Category:**
+![Revenue by Category](insight_2_revenue.png)
+
+* **Insight 3 - Revenue by Age Group:**
+![Age Group](insight_class_age.png)
+
+---
+📄 **[Click here to view the full presentation (PDF)](Shopping%20Trends.pdf)**
+---
 
 ---
 
